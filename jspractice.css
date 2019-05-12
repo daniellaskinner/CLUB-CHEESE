@@ -1,0 +1,16 @@
+body{
+  font-family: arial;
+  text-align: center;
+  background-image:url(cheese.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+background{
+  opacity:0.8;
+}
+
+.form{
+  padding: 10px;
+  font-size: 18px;
+}
